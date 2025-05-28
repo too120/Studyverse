@@ -1,0 +1,21 @@
+
+{
+  "short_name": "StudyApp",
+  "name": "تطبيق الدراسة الجماعية",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4A90E2",
+  "background_color": "#FFFFFF"
+}
